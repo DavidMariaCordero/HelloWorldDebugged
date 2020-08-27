@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.exe
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.deps.json
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.runtimeconfig.json
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.runtimeconfig.dev.json
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.dll
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\bin\Debug\netcoreapp3.1\HelloWorldDebugged.pdb
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.csprojAssemblyReference.cache
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.AssemblyInfo.cs
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.dll
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.pdb
+C:\Users\David\Desktop\UCNE\semestre 3-2020\HelloWorldDebugged\obj\Debug\netcoreapp3.1\HelloWorldDebugged.genruntimeconfig.cache
